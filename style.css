@@ -18,10 +18,21 @@ h1{
 
 .boksi{
 	padding: 20px;
+	text-align: center;
 	background-color: rgb(200,200,255);
 	border: Blue;
 	border-style: double;
 }
+
+a{
+	text-align: center;
+	align: center;
+}
+
+p{
+	text-align: center;
+}
+
 
 a:hover{
 	background-color: Red;
