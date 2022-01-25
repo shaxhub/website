@@ -1,0 +1,28 @@
+body{
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: #F0ABE6;
+	margin-left: 50px;
+	font-family: Batang;
+	color: Blue;
+}
+
+h1{
+	text-align: center;
+	color: Red;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+.boksi{
+	padding: 20px;
+	background-color: rgb(200,200,255);
+	border: Blue;
+	border-style: double;
+}
+
+a:hover{
+	background-color: Red;
+}
